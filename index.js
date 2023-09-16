@@ -3,7 +3,7 @@ const hero = {
   name: "Wizard",
   avatar: "images/wizard.png",
   health: 60,
-  diceRoll: [3, 1, 4],
+  diceRoll: [3, 1, 4, 7],
   diceCount: 3,
 };
 
